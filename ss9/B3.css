@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.square{
+    width: 300px;
+    height: 400px;
+    background-image: url(https://image.hsv-tech.io/reebok/common/fc260bd9-9df1-4932-b76c-fb6016bab6a9.webp);
+    background-size: 350px;
+}
+
+.square .child{
+    color: peachpuff;
+    position: relative; 
+    bottom: -300px;
+    left: 15px;
+}
